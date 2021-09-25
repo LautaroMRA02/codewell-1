@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"body\r\n{\r\n    background-color: rgb(1,50,67);\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,IAAI,CACJ;EACI,gBAAgB,EAAE,OAAY;CACjC"
+}
